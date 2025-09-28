@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>iii</folder>
+	<filename>004236.jpg</filename>
+	<path>C:\Users\ln970\Desktop\iii\004236.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>133</ymin>
+			<xmax>832</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+</annotation>

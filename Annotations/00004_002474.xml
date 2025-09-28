@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>newdatasets</folder>
+	<filename>002474.jpg</filename>
+	<path>C:\Users\ln970\Desktop\newdatasets\002474.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>test-tube</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>82</ymin>
+			<xmax>320</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

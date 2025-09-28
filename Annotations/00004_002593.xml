@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>newdatasets</folder>
+	<filename>002593.jpg</filename>
+	<path>C:\Users\ln970\Desktop\newdatasets\002593.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alcohol-burner</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>218</ymin>
+			<xmax>218</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>图片标注1</folder>
+	<filename>004027.jpg</filename>
+	<path>D:\桌面\毕设标注\毕设标注1\图片标注1\004027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>test-tube</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>603</xmin>
+			<ymin>1</ymin>
+			<xmax>693</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>newdatasets</folder>
+	<filename>002487.jpg</filename>
+	<path>C:\Users\ln970\Desktop\newdatasets\002487.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>measuring-cylinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>88</ymin>
+			<xmax>316</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>
